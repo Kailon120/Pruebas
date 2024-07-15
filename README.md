@@ -13,4 +13,6 @@ Operaciones:
 
 ## Instrucciones
 
-Para usar el programa solo se tiene que ejecutar el programa y por medio de la terminal introducir los números siguiendo las indicaciones.
+Para usar el programa solo se tiene que ejecutar el programa main.py y por medio de la terminal introducir los números siguiendo las indicaciones.
+
+Es importante tener todos los archivos en una misma dirección para el correcto funcionamiento.
